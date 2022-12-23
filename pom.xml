@@ -19,9 +19,6 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
      
-    <properties>
-        <sonar.projectKey>avinorg1_mvn-sample2</sonar.projectKey>
-    </properties>
 
     <dependencies>
         <!-- Here are all your dependencies. Currently only one. These are automatically downloaded from https://mvnrepository.com/ -->
